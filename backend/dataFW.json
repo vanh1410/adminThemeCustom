@@ -1,0 +1,992 @@
+{
+   "result": [
+      {
+         "_id": "6096313067ba5c8c353e96fe",
+         "orgid": "6090c7cddc095868143c7964",
+         "ma_cham_cong": "bt1015@1aglove",
+         "ma_nhan_vien": "BT1015",
+         "ten_nhan_vien": "NGUYỄN VĂN TOÀN",
+         "gioi_tinh": "Nam",
+         "ngay_sinh": 428950800000,
+         "dia_chi_thuong_tru": "Ấp 4, Lộc An, Lộc Ninh, Bình Phước",
+         "dia_chi": "",
+         "que_quan": "Lộc Ninh,Bình Phước",
+         "dien_thoai": "0985206460",
+         "email": "",
+         "vi_tri_cong_viec": {
+            "ma": "NVTG",
+            "ten": "Nhân Viên Tháo Găng"
+         },
+         "ma_so_thue_ca_nhan": "8697024551",
+         "phong_ban": {
+            "ma": "14.TG",
+            "ten": "Tháo găng"
+         },
+         "chuc_vu": "",
+         "ngay_vao_cong_ty": "",
+         "hinh_anh": "https://image.fastwork.vn:6007/avatar/6090c7cddc095868143c7964/1620704193227.jpg",
+         "so_cmt": "285024896",
+         "ngay_cap_cmt": 1395939600000,
+         "noi_cap_cmt": "CA Bình phước",
+         "ngay_het_han_cmt": 1869325200000,
+         "so_ho_chieu": "",
+         "ngay_cap_ho_chieu": "",
+         "noi_cap_ho_chieu": "",
+         "ngay_het_han_ho_chieu": "",
+         "trinh_do_van_hoa": "",
+         "trinh_do_dao_tao": "",
+         "noi_dao_tao": "",
+         "khoa": "",
+         "chuyen_nganh": "",
+         "tinh_trang_hon_nhan": "Đã kết hôn",
+         "thanh_phan_gia_dinh": "",
+         "thanh_phan_ban_than": "",
+         "dan_toc": {
+            "ma": "Kinh",
+            "ten": "Kinh"
+         },
+         "ton_giao": {
+            "ma": "Không",
+            "ten": "Không"
+         },
+         "start_date": 1615222800000,
+         "end_date": "",
+         "so_tai_khoan": "1021742390",
+         "ngan_hang": {
+            "ma": "VIETCOMBANK",
+            "ten": "Ngân hàng Ngoại thương Việt Nam"
+         },
+         "tra_luong_qua_ngan_hang": true,
+         "luong_tra_qua_ngan_hang": "",
+         "status": "Đang làm việc",
+         "luong_co_ban": "8,795,800",
+         "ngay_hieu_luc": "",
+         "nguoi_tao": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_tao": 1620455728986,
+         "nguoi_cap_nhat": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_cap_nhat": 1638168425780,
+         "isDeleted": false,
+         "titletk": "nguyen van toan",
+         "rectype": "auto",
+         "code": "bt1015",
+         "review": "pending",
+         "summary": {
+            "TTCN": 84,
+            "LU": 44,
+            "HRCD": 33,
+            "TTVT": 86,
+            "HS": 100,
+            "HĐ": 61,
+            "CT": 40,
+            "GĐ": 64
+         },
+         "dien_thoai_cong_viec": "0985206460",
+         "email_cong_viec": "",
+         "chi_nhanh": {},
+         "noi_lam_viec": {
+            "ma": "BP",
+            "ten": "Bình Phước"
+         },
+         "cay_don_vi": {
+            "id": "60c4243318c642d416a115fb",
+            "name": "TG - THÁO GĂNG"
+         },
+         "reviewDate": 1638168425785
+      },
+      {
+         "_id": "6096313167ba5c8c353e9709",
+         "orgid": "6090c7cddc095868143c7964",
+         "ma_cham_cong": "bt1019@1aglove",
+         "ma_nhan_vien": "BT1019",
+         "ten_nhan_vien": "HỒ THANH HOÀNG",
+         "gioi_tinh": "Nam",
+         "ngay_sinh": 399488400000,
+         "dia_chi_thuong_tru": "Ấp 6B, Lộc Tấn, Lộc Ninh, Bình Phước",
+         "dia_chi": "",
+         "que_quan": "Lộc Ninh,Bình Phước",
+         "dien_thoai": "0372143216",
+         "email": "",
+         "vi_tri_cong_viec": {
+            "ma": "NV BT",
+            "ten": "Nhân viên bảo trì bảo dưỡng"
+         },
+         "ma_so_thue_ca_nhan": "8697024618",
+         "phong_ban": {
+            "ma": "6.KT_BT",
+            "ten": "Kỹ thuật - Bảo trì"
+         },
+         "chuc_vu": "",
+         "ngay_vao_cong_ty": "",
+         "hinh_anh": "https://image.fastwork.vn:6007/avatar/6090c7cddc095868143c7964/1620704839531.jpg",
+         "so_cmt": "285029458",
+         "ngay_cap_cmt": 1192122000000,
+         "noi_cap_cmt": "CA Bình phước",
+         "ngay_het_han_cmt": 1665507600000,
+         "so_ho_chieu": "",
+         "ngay_cap_ho_chieu": "",
+         "noi_cap_ho_chieu": "",
+         "ngay_het_han_ho_chieu": "",
+         "trinh_do_van_hoa": "",
+         "trinh_do_dao_tao": "",
+         "noi_dao_tao": "",
+         "khoa": "",
+         "chuyen_nganh": "",
+         "tinh_trang_hon_nhan": "Đã kết hôn",
+         "thanh_phan_gia_dinh": "",
+         "thanh_phan_ban_than": "",
+         "dan_toc": {
+            "ma": "Kinh",
+            "ten": "Kinh"
+         },
+         "ton_giao": {
+            "ma": "Không",
+            "ten": "Không"
+         },
+         "start_date": 1614186000000,
+         "end_date": "",
+         "so_tai_khoan": "1021742437",
+         "ngan_hang": {
+            "ma": "VIETCOMBANK",
+            "ten": "Ngân hàng Ngoại thương Việt Nam"
+         },
+         "tra_luong_qua_ngan_hang": true,
+         "luong_tra_qua_ngan_hang": "",
+         "status": "Đang làm việc",
+         "luong_co_ban": "8,795,800",
+         "ngay_hieu_luc": "",
+         "nguoi_tao": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_tao": 1620455729018,
+         "nguoi_cap_nhat": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_cap_nhat": 1639796481262,
+         "isDeleted": false,
+         "titletk": "ho thanh hoang",
+         "rectype": "auto",
+         "code": "bt1019",
+         "review": "pending",
+         "summary": {
+            "TTCN": 84,
+            "TTVT": 86,
+            "HRCD": 33,
+            "HS": 100,
+            "HĐ": 61,
+            "CT": 45,
+            "LU": 42,
+            "GĐ": 66
+         },
+         "dien_thoai_cong_viec": "0372143216",
+         "email_cong_viec": "",
+         "chi_nhanh": {},
+         "noi_lam_viec": {
+            "ma": "BP",
+            "ten": "Bình Phước"
+         },
+         "cay_don_vi": {
+            "id": "6092bcb25ac22150241f9688",
+            "name": "KTBT - KỸ THUẬT - BẢO TRÌ"
+         },
+         "reviewDate": 1639796481270,
+         "fm_so_dien_thoai_nguoi_than": "0919116435\tTrần Thị Mộng Trinh\tVợ"
+      },
+      {
+         "_id": "6096313167ba5c8c353e970e",
+         "orgid": "6090c7cddc095868143c7964",
+         "ma_cham_cong": "bt1020@1aglove",
+         "ma_nhan_vien": "BT1020",
+         "ten_nhan_vien": "PHAN THÀNH ĐẠT",
+         "gioi_tinh": "Nam",
+         "ngay_sinh": 952448400000,
+         "dia_chi_thuong_tru": "Ấp 8C, Lộc Hòa, Lộc Ninh, Bình Phước",
+         "dia_chi": "",
+         "que_quan": "Hải phòng",
+         "dien_thoai": "0969892703",
+         "email": "",
+         "vi_tri_cong_viec": {
+            "ma": "NV BT",
+            "ten": "Nhân viên bảo trì bảo dưỡng"
+         },
+         "ma_so_thue_ca_nhan": "8672627283",
+         "phong_ban": {
+            "ma": "6.KT_BT",
+            "ten": "Kỹ thuật - Bảo trì"
+         },
+         "chuc_vu": "",
+         "ngay_vao_cong_ty": "",
+         "hinh_anh": "https://image.fastwork.vn:6007/avatar/6090c7cddc095868143c7964/1620705547287.jpg",
+         "so_cmt": "285720619",
+         "ngay_cap_cmt": 1410973200000,
+         "noi_cap_cmt": "CA Bình phước",
+         "ngay_het_han_cmt": 1884358800000,
+         "so_ho_chieu": "",
+         "ngay_cap_ho_chieu": "",
+         "noi_cap_ho_chieu": "",
+         "ngay_het_han_ho_chieu": "",
+         "trinh_do_van_hoa": "",
+         "trinh_do_dao_tao": "",
+         "noi_dao_tao": "",
+         "khoa": "",
+         "chuyen_nganh": "",
+         "tinh_trang_hon_nhan": "Độc thân",
+         "thanh_phan_gia_dinh": "",
+         "thanh_phan_ban_than": "",
+         "dan_toc": {
+            "ma": "Kinh",
+            "ten": "Kinh"
+         },
+         "ton_giao": {
+            "ma": "Phật giáo",
+            "ten": "Phật giáo"
+         },
+         "start_date": 1612112400000,
+         "end_date": "",
+         "so_tai_khoan": "1021742400",
+         "ngan_hang": {
+            "ma": "VIETCOMBANK",
+            "ten": "Ngân hàng Ngoại thương Việt Nam"
+         },
+         "tra_luong_qua_ngan_hang": true,
+         "luong_tra_qua_ngan_hang": "",
+         "status": "Đang làm việc",
+         "luong_co_ban": "10,121,800",
+         "ngay_hieu_luc": "",
+         "nguoi_tao": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_tao": 1620455729024,
+         "nguoi_cap_nhat": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_cap_nhat": 1639796349984,
+         "isDeleted": false,
+         "titletk": "phan thanh dat",
+         "rectype": "auto",
+         "code": "bt1020",
+         "review": "pending",
+         "summary": {
+            "LU": 46,
+            "TTVT": 86,
+            "HRCD": 33,
+            "TTCN": 84,
+            "HS": 100,
+            "HĐ": 67,
+            "CT": 45,
+            "GĐ": 64
+         },
+         "dien_thoai_cong_viec": "0969892703",
+         "email_cong_viec": "",
+         "chi_nhanh": {},
+         "noi_lam_viec": {
+            "ma": "BP",
+            "ten": "Bình Phước"
+         },
+         "cay_don_vi": {
+            "id": "6092bcb25ac22150241f9688",
+            "name": "KTBT - KỸ THUẬT - BẢO TRÌ"
+         },
+         "reviewDate": 1639796349991,
+         "fm_so_dien_thoai_nguoi_than": "0962348987\tPhan văn Dũng\tBố"
+      },
+      {
+         "_id": "6096313167ba5c8c353e9713",
+         "orgid": "6090c7cddc095868143c7964",
+         "ma_cham_cong": "bt1022@1aglove",
+         "ma_nhan_vien": "BT1022",
+         "ten_nhan_vien": "PHẠM LƯƠNG THẮNG",
+         "gioi_tinh": "Nam",
+         "ngay_sinh": 611427600000,
+         "dia_chi_thuong_tru": "Ấp 8, Lộc Hòa, Lộc Ninh, Bình Phước",
+         "dia_chi": "",
+         "que_quan": "Bình Phước",
+         "dien_thoai": "0937033142",
+         "email": "",
+         "vi_tri_cong_viec": {
+            "ma": "NV BT",
+            "ten": "Nhân viên bảo trì bảo dưỡng"
+         },
+         "ma_so_thue_ca_nhan": "8697024657",
+         "phong_ban": {
+            "ma": "6.KT_BT",
+            "ten": "Kỹ thuật - Bảo trì"
+         },
+         "chuc_vu": "",
+         "ngay_vao_cong_ty": "",
+         "hinh_anh": "https://image.fastwork.vn:6007/avatar/6090c7cddc095868143c7964/1620813474923.jpg",
+         "so_cmt": "285292147",
+         "ngay_cap_cmt": 1510592400000,
+         "noi_cap_cmt": "CA Bình phước",
+         "ngay_het_han_cmt": 1983978000000,
+         "so_ho_chieu": "",
+         "ngay_cap_ho_chieu": "",
+         "noi_cap_ho_chieu": "",
+         "ngay_het_han_ho_chieu": "",
+         "trinh_do_van_hoa": "",
+         "trinh_do_dao_tao": "",
+         "noi_dao_tao": "",
+         "khoa": "",
+         "chuyen_nganh": "",
+         "tinh_trang_hon_nhan": "Đã kết hôn",
+         "thanh_phan_gia_dinh": "",
+         "thanh_phan_ban_than": "",
+         "dan_toc": {
+            "ma": "Kinh",
+            "ten": "Kinh"
+         },
+         "ton_giao": {
+            "ma": "Không",
+            "ten": "Không"
+         },
+         "start_date": 1613840400000,
+         "end_date": "",
+         "so_tai_khoan": "1021742460",
+         "ngan_hang": {
+            "ma": "VIETCOMBANK",
+            "ten": "Ngân hàng Ngoại thương Việt Nam"
+         },
+         "tra_luong_qua_ngan_hang": true,
+         "luong_tra_qua_ngan_hang": "",
+         "status": "Đang làm việc",
+         "luong_co_ban": "8,795,800",
+         "ngay_hieu_luc": "",
+         "nguoi_tao": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_tao": 1620455729038,
+         "nguoi_cap_nhat": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_cap_nhat": 1639796536112,
+         "isDeleted": false,
+         "titletk": "pham luong thang",
+         "rectype": "auto",
+         "code": "bt1022",
+         "review": "pending",
+         "summary": {
+            "TTCN": 84,
+            "TTVT": 86,
+            "HRCD": 33,
+            "HĐ": 67,
+            "HS": 100,
+            "CT": 45,
+            "LU": 42,
+            "GĐ": 69
+         },
+         "dien_thoai_cong_viec": "0937033142",
+         "email_cong_viec": "",
+         "chi_nhanh": {},
+         "noi_lam_viec": {
+            "ma": "BP",
+            "ten": "Bình Phước"
+         },
+         "cay_don_vi": {
+            "id": "6092bcb25ac22150241f9688",
+            "name": "KTBT - KỸ THUẬT - BẢO TRÌ"
+         },
+         "reviewDate": 1639796536119,
+         "fm_so_dien_thoai_nguoi_than": "0378963662\t Đỗ Thị Bích Ngọc\tMẹ"
+      },
+      {
+         "_id": "6096313167ba5c8c353e9718",
+         "orgid": "6090c7cddc095868143c7964",
+         "ma_cham_cong": "bt1024@1aglove",
+         "ma_nhan_vien": "BT1024",
+         "ten_nhan_vien": "MÃ VĂN DŨNG",
+         "gioi_tinh": "Nam",
+         "ngay_sinh": 567968400000,
+         "dia_chi_thuong_tru": "Ấp 6, Lộc Hưng, Lộc Ninh, Bình Phước",
+         "dia_chi": "",
+         "que_quan": "Thanh hóa",
+         "dien_thoai": "0364945559",
+         "email": "",
+         "vi_tri_cong_viec": {
+            "ma": "NV BT",
+            "ten": "Nhân viên bảo trì bảo dưỡng"
+         },
+         "ma_so_thue_ca_nhan": "8060127118",
+         "phong_ban": {
+            "ma": "6.KT_BT",
+            "ten": "Kỹ thuật - Bảo trì"
+         },
+         "chuc_vu": "",
+         "ngay_vao_cong_ty": "",
+         "hinh_anh": "https://image.fastwork.vn:6007/avatar/6090c7cddc095868143c7964/1620706063563.jpg",
+         "so_cmt": "285178589",
+         "ngay_cap_cmt": 1452704400000,
+         "noi_cap_cmt": "CA Bình phước",
+         "ngay_het_han_cmt": 1926090000000,
+         "so_ho_chieu": "",
+         "ngay_cap_ho_chieu": "",
+         "noi_cap_ho_chieu": "",
+         "ngay_het_han_ho_chieu": "",
+         "trinh_do_van_hoa": "",
+         "trinh_do_dao_tao": "",
+         "noi_dao_tao": "",
+         "khoa": "",
+         "chuyen_nganh": "",
+         "tinh_trang_hon_nhan": "Đã ly hôn",
+         "thanh_phan_gia_dinh": "",
+         "thanh_phan_ban_than": "",
+         "dan_toc": {
+            "ma": "Kinh",
+            "ten": "Kinh"
+         },
+         "ton_giao": {
+            "ma": "Không",
+            "ten": "Không"
+         },
+         "start_date": 1615222800000,
+         "end_date": "",
+         "so_tai_khoan": "1021742392",
+         "ngan_hang": {
+            "ma": "VIETCOMBANK",
+            "ten": "Ngân hàng Ngoại thương Việt Nam"
+         },
+         "tra_luong_qua_ngan_hang": true,
+         "luong_tra_qua_ngan_hang": "",
+         "status": "Đang làm việc",
+         "luong_co_ban": "8,795,800",
+         "ngay_hieu_luc": "",
+         "nguoi_tao": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_tao": 1620455729052,
+         "nguoi_cap_nhat": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_cap_nhat": 1639796619751,
+         "isDeleted": false,
+         "titletk": "ma van dung",
+         "rectype": "auto",
+         "code": "bt1024",
+         "review": "pending",
+         "summary": {
+            "TTCN": 84,
+            "LU": 46,
+            "HRCD": 33,
+            "TTVT": 86,
+            "HS": 100,
+            "HĐ": 67,
+            "CT": 45,
+            "GĐ": 69
+         },
+         "dien_thoai_cong_viec": "0364945559",
+         "email_cong_viec": "",
+         "chi_nhanh": {},
+         "noi_lam_viec": {
+            "ma": "BP",
+            "ten": "Bình Phước"
+         },
+         "cay_don_vi": {
+            "id": "6092bcb25ac22150241f9688",
+            "name": "KTBT - KỸ THUẬT - BẢO TRÌ"
+         },
+         "reviewDate": 1639796619760,
+         "fm_so_dien_thoai_nguoi_than": "0387546433\tĐỗ Thị Sáng\tMẹ"
+      },
+      {
+         "_id": "6096313167ba5c8c353e971c",
+         "orgid": "6090c7cddc095868143c7964",
+         "ma_cham_cong": "bt1025@1aglove",
+         "ma_nhan_vien": "BT1025",
+         "ten_nhan_vien": "MÃ VĂN HÙNG",
+         "gioi_tinh": "Nam",
+         "ngay_sinh": 554490000000,
+         "dia_chi_thuong_tru": "Ấp 6, Lộc Hưng, Lộc Ninh, Bình Phước",
+         "dia_chi": "",
+         "que_quan": "Thanh hóa",
+         "dien_thoai": "0399321363",
+         "email": "",
+         "vi_tri_cong_viec": {
+            "ma": "NV BT",
+            "ten": "Nhân viên bảo trì bảo dưỡng"
+         },
+         "ma_so_thue_ca_nhan": "8321771714",
+         "phong_ban": {
+            "ma": "6.KT_BT",
+            "ten": "Kỹ thuật - Bảo trì"
+         },
+         "chuc_vu": "",
+         "ngay_vao_cong_ty": "",
+         "hinh_anh": "https://image.fastwork.vn:6007/avatar/6090c7cddc095868143c7964/1621063727994.jpg",
+         "so_cmt": "285123377",
+         "ngay_cap_cmt": 1523466000000,
+         "noi_cap_cmt": "CA Bình phước",
+         "ngay_het_han_cmt": 1996851600000,
+         "so_ho_chieu": "",
+         "ngay_cap_ho_chieu": "",
+         "noi_cap_ho_chieu": "",
+         "ngay_het_han_ho_chieu": "",
+         "trinh_do_van_hoa": "",
+         "trinh_do_dao_tao": "",
+         "noi_dao_tao": "",
+         "khoa": "",
+         "chuyen_nganh": "",
+         "tinh_trang_hon_nhan": "Độc thân",
+         "thanh_phan_gia_dinh": "",
+         "thanh_phan_ban_than": "",
+         "dan_toc": {
+            "ma": "Kinh",
+            "ten": "Kinh"
+         },
+         "ton_giao": {
+            "ma": "Không",
+            "ten": "Không"
+         },
+         "start_date": 1615222800000,
+         "end_date": "",
+         "so_tai_khoan": "1021742395",
+         "ngan_hang": {
+            "ma": "VIETCOMBANK",
+            "ten": "Ngân hàng Ngoại thương Việt Nam"
+         },
+         "tra_luong_qua_ngan_hang": true,
+         "luong_tra_qua_ngan_hang": "",
+         "status": "Đang làm việc",
+         "luong_co_ban": "8,795,800",
+         "ngay_hieu_luc": "",
+         "nguoi_tao": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_tao": 1620455729067,
+         "nguoi_cap_nhat": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_cap_nhat": 1639796384206,
+         "isDeleted": false,
+         "titletk": "ma van hung",
+         "rectype": "auto",
+         "code": "bt1025",
+         "review": "pending",
+         "summary": {
+            "TTCN": 84,
+            "LU": 50,
+            "HRCD": 33,
+            "HS": 100,
+            "TTVT": 86,
+            "HĐ": 67,
+            "CT": 45,
+            "BH": 80,
+            "GĐ": 70
+         },
+         "dien_thoai_cong_viec": "0399321363",
+         "email_cong_viec": "",
+         "chi_nhanh": {},
+         "noi_lam_viec": {
+            "ma": "BP",
+            "ten": "Bình Phước"
+         },
+         "cay_don_vi": {
+            "id": "6092bcb25ac22150241f9688",
+            "name": "KTBT - KỸ THUẬT - BẢO TRÌ"
+         },
+         "reviewDate": 1639796384211,
+         "fm_so_dien_thoai_nguoi_than": "0387546433\tĐỗ Thị Sáng\tMẹ"
+      },
+      {
+         "_id": "6096313167ba5c8c353e9721",
+         "orgid": "6090c7cddc095868143c7964",
+         "ma_cham_cong": "bt1026@1aglove",
+         "ma_nhan_vien": "BT1026",
+         "ten_nhan_vien": "HÀ THANH PHONG",
+         "gioi_tinh": "Nam",
+         "ngay_sinh": 315507600000,
+         "dia_chi_thuong_tru": "Tân Hội, Tân Thành, Bù Đốp, Bình Phước",
+         "dia_chi": "",
+         "que_quan": "Hậu Giang",
+         "dien_thoai": "0373452549",
+         "email": "",
+         "vi_tri_cong_viec": {
+            "ma": "NV BT",
+            "ten": "Nhân viên bảo trì bảo dưỡng"
+         },
+         "ma_so_thue_ca_nhan": "8697024706",
+         "phong_ban": {
+            "ma": "6.KT_BT",
+            "ten": "Kỹ thuật - Bảo trì"
+         },
+         "chuc_vu": "",
+         "ngay_vao_cong_ty": "",
+         "hinh_anh": "https://image.fastwork.vn:6007/avatar/6090c7cddc095868143c7964/1621064223339.jpg",
+         "so_cmt": "285571307",
+         "ngay_cap_cmt": 1406826000000,
+         "noi_cap_cmt": "CA Bình phước",
+         "ngay_het_han_cmt": 1880211600000,
+         "so_ho_chieu": "",
+         "ngay_cap_ho_chieu": "",
+         "noi_cap_ho_chieu": "",
+         "ngay_het_han_ho_chieu": "",
+         "trinh_do_van_hoa": "",
+         "trinh_do_dao_tao": "",
+         "noi_dao_tao": "",
+         "khoa": "",
+         "chuyen_nganh": "",
+         "tinh_trang_hon_nhan": "Đã kết hôn",
+         "thanh_phan_gia_dinh": "",
+         "thanh_phan_ban_than": "",
+         "dan_toc": {
+            "ma": "Kinh",
+            "ten": "Kinh"
+         },
+         "ton_giao": {
+            "ma": "Không",
+            "ten": "Không"
+         },
+         "start_date": 1616346000000,
+         "end_date": "",
+         "so_tai_khoan": "1021742417",
+         "ngan_hang": {
+            "ma": "VIETCOMBANK",
+            "ten": "Ngân hàng Ngoại thương Việt Nam"
+         },
+         "tra_luong_qua_ngan_hang": true,
+         "luong_tra_qua_ngan_hang": "",
+         "status": "Đang làm việc",
+         "luong_co_ban": "8,795,800",
+         "ngay_hieu_luc": "",
+         "nguoi_tao": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_tao": 1620455729092,
+         "nguoi_cap_nhat": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_cap_nhat": 1639796804609,
+         "isDeleted": false,
+         "titletk": "ha thanh phong",
+         "rectype": "auto",
+         "code": "bt1026",
+         "review": "pending",
+         "summary": {
+            "TTCN": 84,
+            "LU": 46,
+            "TTVT": 86,
+            "HRCD": 33,
+            "HS": 100,
+            "HĐ": 67,
+            "CT": 45,
+            "GĐ": 69
+         },
+         "dien_thoai_cong_viec": "0373452549",
+         "email_cong_viec": "",
+         "chi_nhanh": {},
+         "noi_lam_viec": {
+            "ma": "BP",
+            "ten": "Bình Phước"
+         },
+         "cay_don_vi": {
+            "id": "6092bcb25ac22150241f9688",
+            "name": "KTBT - KỸ THUẬT - BẢO TRÌ"
+         },
+         "reviewDate": 1639796807704,
+         "fm_so_dien_thoai_nguoi_than": "0393046453 \tTrương Thị Đen\tVợ"
+      },
+      {
+         "_id": "6096313167ba5c8c353e9725",
+         "orgid": "6090c7cddc095868143c7964",
+         "ma_cham_cong": "bt1028@1aglove",
+         "ma_nhan_vien": "BT1028",
+         "ten_nhan_vien": "TRẦN QUỐC KỲ",
+         "gioi_tinh": "Nam",
+         "ngay_sinh": 315507600000,
+         "dia_chi_thuong_tru": "Tân Hội, Tân Thành, Bù Đốp, Bình Phước",
+         "dia_chi": "",
+         "que_quan": "Bạc Liêu",
+         "dien_thoai": "0326787916",
+         "email": "",
+         "vi_tri_cong_viec": {
+            "ma": "NV BT",
+            "ten": "Nhân viên bảo trì bảo dưỡng"
+         },
+         "ma_so_thue_ca_nhan": "8697024720",
+         "phong_ban": {
+            "ma": "6.KT_BT",
+            "ten": "Kỹ thuật - Bảo trì"
+         },
+         "chuc_vu": "",
+         "ngay_vao_cong_ty": "",
+         "hinh_anh": "https://image.fastwork.vn:6007/avatar/6090c7cddc095868143c7964/1621064534164.jpg",
+         "so_cmt": "285814235",
+         "ngay_cap_cmt": 1529514000000,
+         "noi_cap_cmt": "CA Bình phước",
+         "ngay_het_han_cmt": 2002899600000,
+         "so_ho_chieu": "",
+         "ngay_cap_ho_chieu": "",
+         "noi_cap_ho_chieu": "",
+         "ngay_het_han_ho_chieu": "",
+         "trinh_do_van_hoa": "",
+         "trinh_do_dao_tao": "",
+         "noi_dao_tao": "",
+         "khoa": "",
+         "chuyen_nganh": "",
+         "tinh_trang_hon_nhan": "Độc thân",
+         "thanh_phan_gia_dinh": "",
+         "thanh_phan_ban_than": "",
+         "dan_toc": {
+            "ma": "Kinh",
+            "ten": "Kinh"
+         },
+         "ton_giao": {
+            "ma": "Không",
+            "ten": "Không"
+         },
+         "start_date": 1616346000000,
+         "end_date": "",
+         "so_tai_khoan": "1021742443",
+         "ngan_hang": {
+            "ma": "VIETCOMBANK",
+            "ten": "Ngân hàng Ngoại thương Việt Nam"
+         },
+         "tra_luong_qua_ngan_hang": true,
+         "luong_tra_qua_ngan_hang": "",
+         "status": "Đang làm việc",
+         "luong_co_ban": "8,795,800",
+         "ngay_hieu_luc": "",
+         "nguoi_tao": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_tao": 1620455729120,
+         "nguoi_cap_nhat": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_cap_nhat": 1639796884783,
+         "isDeleted": false,
+         "titletk": "tran quoc ky",
+         "rectype": "auto",
+         "code": "bt1028",
+         "review": "pending",
+         "summary": {
+            "TTCN": 84,
+            "TTVT": 86,
+            "HRCD": 33,
+            "HS": 100,
+            "LU": 42,
+            "HĐ": 61,
+            "CT": 45,
+            "GĐ": 71
+         },
+         "dien_thoai_cong_viec": "0326787916",
+         "email_cong_viec": "",
+         "chi_nhanh": {},
+         "noi_lam_viec": {
+            "ma": "BP",
+            "ten": "Bình Phước"
+         },
+         "cay_don_vi": {
+            "id": "6092bcb25ac22150241f9688",
+            "name": "KTBT - KỸ THUẬT - BẢO TRÌ"
+         },
+         "reviewDate": 1639796884797,
+         "fm_so_dien_thoai_nguoi_than": "0347731816\t Võ Thị Thảo \tVợ"
+      },
+      {
+         "_id": "6096313167ba5c8c353e972b",
+         "orgid": "6090c7cddc095868143c7964",
+         "ma_cham_cong": "bt1031@1aglove",
+         "ma_nhan_vien": "BT1031",
+         "ten_nhan_vien": "NGUYỄN QUỐC CHUNG",
+         "gioi_tinh": "Nam",
+         "ngay_sinh": 805482000000,
+         "dia_chi_thuong_tru": "Ấp Thạnh Đông, Lộc Tấn, Lộc Ninh, Bình Phước",
+         "dia_chi": "",
+         "que_quan": "Bình Phước",
+         "dien_thoai": "0961216939",
+         "email": "",
+         "vi_tri_cong_viec": {
+            "ma": "NVCĐ",
+            "ten": "Nhân Viên Cơ Động"
+         },
+         "ma_so_thue_ca_nhan": "8597464816",
+         "phong_ban": {
+            "ma": "13.FC",
+            "ten": "Cơ động"
+         },
+         "chuc_vu": "",
+         "ngay_vao_cong_ty": "",
+         "hinh_anh": "https://image.fastwork.vn:6007/avatar/6090c7cddc095868143c7964/1621064775959.jpg",
+         "so_cmt": "285504457",
+         "ngay_cap_cmt": 1505322000000,
+         "noi_cap_cmt": "CA Bình phước",
+         "ngay_het_han_cmt": 1978707600000,
+         "so_ho_chieu": "",
+         "ngay_cap_ho_chieu": "",
+         "noi_cap_ho_chieu": "",
+         "ngay_het_han_ho_chieu": "",
+         "trinh_do_van_hoa": "",
+         "trinh_do_dao_tao": "",
+         "noi_dao_tao": "",
+         "khoa": "",
+         "chuyen_nganh": "",
+         "tinh_trang_hon_nhan": "Độc thân",
+         "thanh_phan_gia_dinh": "",
+         "thanh_phan_ban_than": "",
+         "dan_toc": {
+            "ma": "Kinh",
+            "ten": "Kinh"
+         },
+         "ton_giao": {
+            "ma": "Không",
+            "ten": "Không"
+         },
+         "start_date": 1616346000000,
+         "end_date": "",
+         "so_tai_khoan": "1021742408",
+         "ngan_hang": {
+            "ma": "VIETCOMBANK",
+            "ten": "Ngân hàng Ngoại thương Việt Nam"
+         },
+         "tra_luong_qua_ngan_hang": true,
+         "luong_tra_qua_ngan_hang": "",
+         "status": "Đang làm việc",
+         "luong_co_ban": "8,795,800",
+         "ngay_hieu_luc": "",
+         "nguoi_tao": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_tao": 1620455729147,
+         "nguoi_cap_nhat": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_cap_nhat": 1640071212332,
+         "isDeleted": false,
+         "titletk": "nguyen quoc chung",
+         "rectype": "auto",
+         "code": "bt1031",
+         "review": "pending",
+         "summary": {
+            "TTCN": 84,
+            "TTVT": 86,
+            "HRCD": 33,
+            "HS": 100,
+            "ĐT": 53,
+            "HĐ": 67,
+            "CT": 38,
+            "LU": 42,
+            "GĐ": 67
+         },
+         "dien_thoai_cong_viec": "0961216939",
+         "email_cong_viec": "",
+         "chi_nhanh": {},
+         "noi_lam_viec": {
+            "ma": "BP",
+            "ten": "Bình Phước"
+         },
+         "cay_don_vi": {
+            "id": "60c4243218c642d416a115ed",
+            "name": "CD - CƠ ĐỘNG"
+         },
+         "reviewDate": 1640071212339,
+         "fm_so_dien_thoai_nguoi_than": "0984531580\tNguyễn Thị Lan \tMẹ"
+      },
+      {
+         "_id": "60c1b094fa98b33425588f00",
+         "orgid": "6090c7cddc095868143c7964",
+         "ma_cham_cong": "admin@1aglove",
+         "ma_nhan_vien": "TGĐ-CEO",
+         "ten_nhan_vien": "NGUYỄN VĂN TƯỜNG",
+         "gioi_tinh": "Nam",
+         "ngay_sinh": 497811600000,
+         "dia_chi_thuong_tru": "K01-03 Khu biệt thự Pegasus, KP. Thái Hòa, P. Long Bình Tân, TP. Biên Hoà, Tỉnh Đồng Nai.",
+         "dia_chi": "Lộc Hòa, Lộc Ninh, Bình Phước",
+         "dien_thoai": "",
+         "dien_thoai_cong_viec": "0905242011",
+         "email": "tuongceo@1aglove.vn",
+         "email_cong_viec": "tuongceo@1aglove.vn",
+         "phong_ban": {
+            "ma": "1.BGD",
+            "ten": "Ban Giám đốc"
+         },
+         "chi_nhanh": {},
+         "noi_lam_viec": {
+            "ma": "BP",
+            "ten": "Bình Phước"
+         },
+         "cay_don_vi": {
+            "id": "6092bcb25ac22150241f9684",
+            "name": "NC - BAN GIÁM ĐỐC"
+         },
+         "vi_tri_cong_viec": {
+            "ma": "TGD",
+            "ten": "Tổng Giám Đốc"
+         },
+         "start_date": 1603645200000,
+         "end_date": "",
+         "ma_so_thue_ca_nhan": "",
+         "hinh_anh": null,
+         "so_cmt": "272600685",
+         "ngay_cap_cmt": 1516640400000,
+         "noi_cap_cmt": "CA Đồng Nai",
+         "ngay_het_han_cmt": "",
+         "tinh_trang_hon_nhan": "Đã kết hôn",
+         "dan_toc": {
+            "ma": "Kinh",
+            "ten": "Kinh"
+         },
+         "ton_giao": {
+            "ma": "Không",
+            "ten": "Không"
+         },
+         "que_quan": "Thừa Thiên Huế",
+         "so_tai_khoan": "6666796666",
+         "ngan_hang": {
+            "ma": "VIETCOMBANK",
+            "ten": "Ngân hàng Ngoại thương Việt Nam"
+         },
+         "tra_luong_qua_ngan_hang": true,
+         "luong_tra_qua_ngan_hang": "",
+         "ngay_bat_dau_thu_viec": null,
+         "thoi_gian_thu_viec": null,
+         "ngay_ket_thuc_thu_viec": null,
+         "ngay_bat_dau_nghi_thai_san": null,
+         "thoi_gian_nghi_thai_san": null,
+         "ngay_ket_thuc_nghi_thai_san": null,
+         "nguoi_tao": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_tao": 1623306388695,
+         "nguoi_cap_nhat": {
+            "email": "nc1014@1aglove",
+            "name": "NGUYỄN LÊ DUY"
+         },
+         "ngay_cap_nhat": 1637900582971,
+         "isDeleted": false,
+         "status": "Đang làm việc",
+         "titletk": "nguyen van tuong",
+         "rectype": "",
+         "review": "pending",
+         "summary": {
+            "TTCN": 79,
+            "TTVT": 86,
+            "HRCD": 33,
+            "HĐ": 44,
+            "CT": 25,
+            "LU": 42
+         },
+         "reviewDate": 1637900582975
+      }
+   ]
+}

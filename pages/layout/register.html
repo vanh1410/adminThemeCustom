@@ -1,0 +1,53 @@
+<div class="login">
+  <div class="title-head">
+    <h1 style="font-size: 36px">Đăng kí tài khoản</h1>
+  </div>
+  <p style="text-align: center;"> Bạn có thể đăng kí bằng:</p>
+  <div class="social">
+    <a class="social-fb" href="#">
+      <img src="./pages/layout/images/fb.png">
+    </a>
+    <a class="social-fb" href="#">
+      <img src="./pages/layout/images/gg.png">
+    </a>
+  </div>
+  <p style="text-align: left;"> Hoặc nhập thông tin:</p>
+  <div>
+    <form class="form">
+      <div class="last-name">
+        <input class="form-input" placeholder=" " type="text" name="Last name" ng-model="user.name">
+        <label class="form-label" for="">Họ và tên</label>
+        <span></span>
+      </div>
+      <div class="email">
+        <input class="form-input" placeholder=" " type="email" name="Email" ng-model="user.email">
+        <label class="form-label" for="">Email</label>
+        <span></span>
+      </div>
+      <div class="first-name">
+        <input class="form-input" placeholder=" " type="text" name="First name" ng-model="user.userName">
+        <label class="form-label" for="">Tên người dùng</label>
+        <span></span>
+      </div>
+      <div class="email">
+        <input class="form-input" placeholder=" " type="number" name="Email" ng-model="user.phone">
+        <label class="form-label" for="">Số điện thoại</label>
+        <span></span>
+      </div>
+      <div class="pass">
+        <input class="form-input" placeholder=" " type="password" name="password" ng-model="user.password">
+        <label class="form-label" for="">Mật khẩu</label>
+        <span></span>
+      </div>
+      <div class="repass">
+        <input class="form-input" placeholder=" " type="password" name="repass">
+        <label class="form-label" for="">Nhập lại mật khẩu</label>
+        <span></span>
+      </div>
+      <div class="register-btn" style="width: 100%">
+        <a href="#!/pages/layout/view-user" ng-click="userCreate(user)" class="btn-reg">Đăng kí</a>
+        <a href="#!/pages/layout/login">Đăng nhập</a>
+      </div>
+    </form>
+  </div>
+</div>

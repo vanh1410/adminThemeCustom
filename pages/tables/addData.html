@@ -1,0 +1,16 @@
+<div class="row">
+  <h1 style="display: block; width: 100%; margin-left: 20px;">Add data</h1>
+  <form class="form-group form-api">
+    <p>Id:</p>
+    <input type="number" class="form-control" placeholder="Hãy nhập ID" ng-model="user.id">
+    <p>Name:</p>
+    <input type="text" class="form-control" placeholder="Hãy nhập tên" ng-model="user.name">
+    <p>Date create:</p>
+    <input type="text" class="form-control" placeholder="Hãy nhập thời gian tạo" ng-model="user.created_at">
+    <p>Status Private:</p>
+    <input type="text" class="form-control" placeholder="Hãy nhập trạng thái" ng-model="user.private">
+    <p>Description:</p>
+    <input type="text" class="form-control" placeholder="Hãy nhập mô tả" ng-model="user.description">
+    <a href="#!/pages/tables/data" class="btn btn-dark btn-add" style="margin-top: 20px;" ng-click="addRow(user)"> Thêm mới </a>
+  </form>
+</div>
